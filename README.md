@@ -85,27 +85,31 @@
 
 ## 🚀 Featured Projects
 
-### 📱 MyongCar
+### 🚕 MyongCar
 
 **대학생 카풀 매칭 서비스**
 
 - 명지대학교 자연캠퍼스 학생들을 위한 카풀 매칭 서비스
-- 카풀 방 생성, 참여, 채팅 및 정산 기능 구현
+- 카풀 방 생성, 참여, 취소 및 정산 기능 구현
+- 채팅 및 이미지 공유 기능
 - Firebase 기반 사용자 인증 및 실시간 데이터 관리
+- FCM 기반 푸시 알림 기능
+- 사용자 신고 및 이용 내역 관리
 
-`Kotlin` `Firebase` `Android`
+`Kotlin` `Android` `Firebase` `FCM`
 
 🔗 [GitHub Repository](https://github.com/Jin-yujin/MJU_Car)
 
 ### 🏥 DoctorPay
 
-**병원 비급여 진료비 정보 서비스**
+**비급여 진료비 정보 제공 및 병원 탐색 서비스**
 
-- 병원별 비급여 진료비 정보 제공
-- 건강보험심사평가원 비급여 진료비 API 활용
-- 지도 기반 병원 탐색 및 리뷰·예약 기능
+- 병원별 비급여 진료비 항목 및 가격 정보 제공
+- 공공데이터 API를 활용한 비급여 진료 정보 연동
+- 지도 API를 활용한 주변 병원 위치 확인
+- 병원 리뷰 및 예약 기능
 
-`Kotlin` `Android` `REST API` `Naver Map` `Kakao Map`
+`Kotlin` `Android` `REST API` `Map API`
 
 🔗 [GitHub Repository](https://github.com/Jin-yujin/DoctorPay)
 
@@ -113,10 +117,12 @@
 
 **AI 기반 개인 맞춤형 스타일 서비스**
 
-- AI를 활용한 개인 맞춤형 스타일 추천 프로젝트
-- OpenAI API를 활용한 자연어 기반 AI 기능 구현
+- 사용자 입력을 기반으로 패션 스타일 추천
+- OpenAI API를 활용한 자연어 기반 AI 응답 생성
+- Flask 기반 웹 서버 및 API 구현
+- 사용자 요청에 따른 맞춤형 스타일 정보 제공
 
-`Python` `Flask` `OpenAI API` `HTML` `CSS`
+`Python` `Flask` `OpenAI API`
 
 🔗 [GitHub Repository](https://github.com/Jin-yujin/StyleMate-AI)
 
@@ -148,7 +154,7 @@
 - 서버 API 연동을 통한 사진 업로드 및 커뮤니티 기능
 - Android 개발 담당 및 Google Play 출시 경험
 
-`Kotlin` `Android` `SDK` `CameraX` `Retrofit` `API` `TokenManager`
+`Kotlin` `Android` `CameraX` `Retrofit` `REST API`
 
 🔗 [Google Play Store](https://play.google.com/store/apps/details?id=com.project.stampy&hl=ko)
 
