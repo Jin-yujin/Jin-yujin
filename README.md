@@ -124,12 +124,14 @@
 
 **AI 기반 임대차 계약서 분석 서비스**
 
-- 임대차 계약서 OCR 및 AI 분석
-- 위험 특약 탐지 및 계약서 요약
-- 표준계약서 대비 차이점 분석
-- 시각장애인과 정보 취약계층을 위한 TTS 기능
+- 임대차 계약서 업로드 및 OCR 기반 문서 인식
+- AI 기반 계약서 분석 및 핵심 내용 요약
+- 위험 특약 탐지 및 계약 관련 주의사항 안내
+- 허위 정보 탐지 및 계약서 위험 요소 분석
+- 계약서 분석 결과 및 이전 분석 내역 관리
+- 페이지별 분석 결과와 위험 영역 시각화
 
-`Kotlin` `Jetpack Compose` `Django` `Python` `OpenCV` `AWS`
+`Kotlin` `Android` `Jetpack Compose` `Django` `Python` `OpenCV` `AWS`
 
 🏆 TABA 7기 우수상 수상
 
@@ -139,22 +141,19 @@
 
 **타임스탬프 사진 기록 카메라 앱**
 
-- CameraX 기반 카메라 촬영 기능 구현
+- CameraX 기반 카메라 촬영 및 이미지 처리
 - 다양한 사진 템플릿 및 날짜·시간 기록
-- 갤러리 저장 및 사진 업로드 기능
-- 커뮤니티, 좋아요 및 신고 기능
+- 갤러리 이미지 가져오기 및 저장
+- 인증 토큰 관리 및 사용자 인증 처리
+- 서버 API 연동을 통한 사진 업로드 및 커뮤니티 기능
 - Android 개발 담당 및 Google Play 출시 경험
 
-`Kotlin` `CameraX` `Retrofit` `Firebase` `AWS S3`
+`Kotlin` `Android` `SDK` `CameraX` `Retrofit` `API` `TokenManager`
 
-<p>
-  <a href="https://play.google.com/store/apps/details?id=com.project.stampy&hl=ko">
-    <img src="https://img.shields.io/badge/Google%20Play-Download-414141?style=for-the-badge&logo=googleplay&logoColor=white"/>
-  </a>
-  <a href="https://github.com/SmallChallenge/Android">
-    <img src="https://img.shields.io/badge/Android%20Source-Private-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+🔗 [Google Play Store](https://play.google.com/store/apps/details?id=com.project.stampy&hl=ko)
+
+🔗 [GitHub Repository (Private)](https://github.com/SmallChallenge/Android)
+
 
 ---
 
@@ -178,7 +177,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jin-yujin&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=default" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jin-yujin&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jin-yujin&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
