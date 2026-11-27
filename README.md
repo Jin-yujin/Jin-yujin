@@ -159,6 +159,7 @@
 `Kotlin` `Android` `CameraX` `Retrofit` `REST API`
 
 🔗 [Google Play Store](https://play.google.com/store/apps/details?id=com.project.stampy&hl=ko)
+
 🔗 [GitHub Repository (Private)](https://github.com/SmallChallenge/Android)
 
 
@@ -169,12 +170,6 @@
 꾸준한 알고리즘 문제 풀이를 통해 자료구조와 문제 해결 능력을 향상시키고 있습니다.
 
 - Java 기반 알고리즘 문제 풀이
-- SWEA 문제 해결 및 학습 기록
-- Implementation & Sorting
-- Stack & Queue
-- DFS & BFS
-- Tree & Graph
-- Binary Search & Backtracking
 - Time Complexity Optimization
 
 🔗 [Algorithm Study Repository](https://github.com/Jin-yujin/algorithm-study)
