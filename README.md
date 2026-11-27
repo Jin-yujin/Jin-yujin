@@ -1,8 +1,6 @@
-# 👋 안녕하세요! 개발자 진유진입니다.
+## 👋 안녕하세요! 개발자 진유진입니다.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:6E9FFF&height=220&section=header&text=YUJIN%20JIN&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20%26%20Backend%20Developer&descAlignY=58&descSize=18" />
-</p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=YUJIN%20JIN&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20and%20Backend%20Developer&descAlignY=58&descSize=18)
 
 <p align="center">
   <b>Android & Backend Developer 🚀</b><br/>
@@ -59,7 +57,6 @@
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge"/>
@@ -89,6 +86,7 @@
 ## 🚀 Featured Projects
 
 ### 📱 MyongCar
+
 **대학생 카풀 매칭 서비스**
 
 - 명지대학교 자연캠퍼스 학생들을 위한 카풀 매칭 서비스
@@ -100,6 +98,7 @@
 🔗 [GitHub Repository](https://github.com/Jin-yujin/MJU_Car)
 
 ### 🏥 DoctorPay
+
 **병원 비급여 진료비 정보 서비스**
 
 - 병원별 비급여 진료비 정보 제공
@@ -111,6 +110,7 @@
 🔗 [GitHub Repository](https://github.com/Jin-yujin/DoctorPay)
 
 ### 👗 StyleMate-AI
+
 **AI 기반 개인 맞춤형 스타일 서비스**
 
 - AI를 활용한 개인 맞춤형 스타일 추천 프로젝트
@@ -121,6 +121,7 @@
 🔗 [GitHub Repository](https://github.com/Jin-yujin/StyleMate-AI)
 
 ### 🏠 JibSin
+
 **AI 기반 임대차 계약서 분석 서비스**
 
 - 임대차 계약서 OCR 및 AI 분석
@@ -135,6 +136,7 @@
 🔗 [GitHub Repository](https://github.com/TABA-7th/jibsin_AI)
 
 ### 📸 Stampic
+
 **타임스탬프 사진 기록 카메라 앱**
 
 - CameraX 기반 카메라 촬영 기능 구현
@@ -145,13 +147,14 @@
 
 `Kotlin` `CameraX` `Retrofit` `Firebase` `AWS S3`
 
-<details>
-<summary>📦 Project Links</summary>
-
-- [Google Play Store](https://play.google.com/store/apps/details?id=com.project.stampy&hl=ko)
-- [Android Source Repository (Private)](https://github.com/SmallChallenge/Android)
-
-</details>
+<p>
+  <a href="https://play.google.com/store/apps/details?id=com.project.stampy&hl=ko">
+    <img src="https://img.shields.io/badge/Google%20Play-Download-414141?style=for-the-badge&logo=googleplay&logoColor=white"/>
+  </a>
+  <a href="https://github.com/SmallChallenge/Android">
+    <img src="https://img.shields.io/badge/Android%20Source-Private-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -168,18 +171,14 @@
 - Binary Search & Backtracking
 - Time Complexity Optimization
 
-<p>
-  <a href="https://github.com/Jin-yujin/algorithm-study">
-    <img src="https://img.shields.io/badge/Algorithm%20Study-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+🔗 [Algorithm Study Repository](https://github.com/Jin-yujin/algorithm-study)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jin-yujin&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jin-yujin&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=default" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jin-yujin&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
@@ -192,16 +191,16 @@
 ## 🌱 Let's Connect!
 
 <p align="center">
+  <a href="mailto:yjinj0383@mju.ac.kr">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
   <a href="https://github.com/Jin-yujin">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <!-- Add your public email address here when ready -->
 </p>
 
 <p align="center">
   <b>Learning by building, growing by challenging. 🚀</b>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:6E9FFF&height=110&section=footer"/>
-</p>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer)
