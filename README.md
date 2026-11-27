@@ -23,7 +23,9 @@
 
 - 📱 Kotlin 기반 Android Application Development
 - 🖥️ Java와 Python 기반 Backend Development
-- 🎓 SSAFY 교육 과정 참여
+- 🎓 TABA 7기 수료
+- 🎓 SWYP 앱3기 수료
+- 🎓 SSAFY 16기 교육 과정 참여
 - 🏆 TABA 7기 프로젝트 우수상 수상
 - 🚀 실제 Google Play 출시 앱 개발 경험
 - 💡 사용자에게 실질적인 가치를 전달하는 서비스 개발에 관심이 있습니다.
@@ -157,7 +159,6 @@
 `Kotlin` `Android` `CameraX` `Retrofit` `REST API`
 
 🔗 [Google Play Store](https://play.google.com/store/apps/details?id=com.project.stampy&hl=ko)
-
 🔗 [GitHub Repository (Private)](https://github.com/SmallChallenge/Android)
 
 
